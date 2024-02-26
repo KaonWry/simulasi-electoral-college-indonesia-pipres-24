@@ -1,0 +1,5 @@
+jupyterlab
+notebook
+voila
+pandas
+openpyxl
